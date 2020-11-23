@@ -8,7 +8,7 @@
 <dt>Total Duration</dt>
 <dd>32 hours</dd>
 <dt>Number of Topics</dt>
-<dd>6</dd>
+<dd>2</dd>
 </dl>
 
 ## Introduction
@@ -17,12 +17,9 @@ Software quality assurance plays an important role in software development life 
 
 ## Topics
 
-1. [Career as a software quality assurance profesional](./01-topic-a.md)
-2. [What is quality](./01-topic-a.md)
-3. [Testing principle](./01-topic-a.md)
-4. [Why testing is necessary?](./01-topic-a.md)
-5. [Testing vs Debugging](./01-topic-a.md)
-6. [Psycology of Testing ](./01-topic-a.md)
+1. [Quality assurance as a career](./01-topic-a.md)
+2. [Testing principles](./01-topic-a.md)
+
 
 ## Learning Outcomes
 
