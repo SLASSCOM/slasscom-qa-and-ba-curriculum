@@ -1,6 +1,6 @@
-[Home](../README.md) > {{Introduction to Software Quality Assurance}}
+[Home](../README.md) > Introduction to Software Quality Assurance
 
-# Module: {{Introduction to Software Quality Assurance}}
+# Module: Introduction to Software Quality Assurance
 
 > Introduce software quality assurance and testing processes 
 
@@ -27,7 +27,7 @@ important to learn what quality is. In this module we will talk about why softwa
 
 ## Learning Outcomes
 
-- Get an idea about different career options available in Software quality assurance  1
-- Difference qualiy models 2
-- Explain the difference between testing and debugging 3
-- Understand why it is essential to have a difference team to do testing  4
+- Get an idea about different career options available in Software quality assurance 
+- Difference qualiy models
+- Explain the difference between testing and debugging
+- Understand why it is essential to have a difference team to do testing
