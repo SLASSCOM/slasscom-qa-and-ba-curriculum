@@ -1,4 +1,4 @@
-# Visual Design and Multimedia Curriculum
+# QA and BA Curriculum
 
 Diploma level curriculum as a guidance to educational institutes. Visit [Curriculum Website](https://slasscom.github.io/slasscom-qa-and-ba-curriculum) for more details
 
