@@ -6,15 +6,14 @@
 
 <dl>
 <dt>Total Duration</dt>
-<dd>~ xx hours</dd>
+<dd>32 hours</dd>
 <dt>Number of Topics</dt>
-<dd>x</dd>
+<dd>6</dd>
 </dl>
 
 ## Introduction
 
-Software quality assurance plays a important role in software development life cycle. Before you need to learn different testing concepts, It is
-important to learn what quality is. In this module we will talk about why software testing is essentail and  (~ 50 words).
+Software quality assurance plays an important role in software development life cycle. It is important to learn why 'quality' is important to our day to day life before learning different testing concepts. In this module we will talk about why software testing is important, different quality models and common misconception with QA and testing.
 
 ## Topics
 
