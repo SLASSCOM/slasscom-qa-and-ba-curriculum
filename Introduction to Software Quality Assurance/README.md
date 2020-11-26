@@ -17,8 +17,8 @@ Software quality assurance plays an important role in software development life 
 
 ## Topics
 
-1. [Quality assurance as a career](./01-topic-a.md)
-2. [Testing principles](./01-topic-a.md)
+1. [Quality assurance as a career](./01-Career-as.md)
+2. [Testing principles](./02-Testing-principles.md)
 
 
 ## Learning Outcomes
