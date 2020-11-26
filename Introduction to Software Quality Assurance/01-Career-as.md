@@ -2,10 +2,8 @@
 
 # Topic: Quality assurance as a career
 
-* Lesson 1: [{{Why testing is necessary?}}](#lesson-1)
-* Lesson 2: [{{What is quality}}](#lesson-1)
-* Lesson 3: [{{Lesson name}}](#lesson-1)
-* Assignment 1: [{{Assignment name}}](#assignment-1)
+* Lesson 1: [Why testing is necessary?](#lesson-1)
+* Lesson 2: [What is quality](#lesson-1)
 
 ---
 ---
