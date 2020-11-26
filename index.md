@@ -17,9 +17,14 @@ This model curriculum is to be used as guidance by educational institutes in tea
 
 | Module                         | Details                                                   |
 | ------------------------------ | --------------------------------------------------------- |
-| Module A         | [View Topics](./module-a/README.md)    |
-| Module B         | [View Topics](./module-a/README.md)    |
-| Module C         | [View Topics](./module-a/README.md)    |
+| Module A       | [View Topics](./module-a/README.md)    |
+| Introduction to Software Quality Assurance         | [View Topics](./module-a/README.md)    |
+| Software testing life cycle         | [View Topics](./module-a/README.md)    |
+| Test managment        | [View Topics](./module-a/README.md)    |
+| Test Automation        | [View Topics](./module-a/README.md)    |
+| Performance Testing        | [View Topics](./module-a/README.md)    |
+| Security Testing        | [View Topics](./module-a/README.md)    |
+| DevOps Testing        | [View Topics](./module-a/README.md)    |
 
 ## Problem overview
 
