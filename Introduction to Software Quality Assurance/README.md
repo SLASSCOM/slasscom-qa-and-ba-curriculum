@@ -1,29 +1,29 @@
-[Home](../README.md) > {{Module Name}}
+[Home](../README.md) > Introduction to Software Quality Assurance
 
-# Module: {{Module Name}}
+# Module: Introduction to Software Quality Assurance
 
-> Short module description (~10 words)
+> Introduce software quality assurance and testing processes 
 
 <dl>
 <dt>Total Duration</dt>
-<dd>~ xx hours</dd>
+<dd>32 hours</dd>
 <dt>Number of Topics</dt>
-<dd>x</dd>
+<dd>2</dd>
 </dl>
 
 ## Introduction
 
-Module description and why the content is important in the industry (~ 50 words).
+Software quality assurance plays an important role in software development life cycle. It is important to learn why 'quality' is important to our day to day life before learning different testing concepts. In this module we will talk about why software testing is important, different quality models and common misconception with QA and testing.
 
 ## Topics
 
-1. [Topic A](./01-topic-a.md)
-2. [Topic B](./01-topic-a.md)
-3. [Topic C](./01-topic-a.md)
+1. [Quality assurance as a career](./01-topic-a.md)
+2. [Testing principles](./01-topic-a.md)
+
 
 ## Learning Outcomes
 
-- learning outcome 1
-- learning outcome 2
-- learning outcome 3
-- learning outcome 4
+- Get an idea about different career options available in Software quality assurance 
+- Difference qualiy models
+- Explain the difference between testing and debugging
+- Understand why it is essential to have a difference team to do testing
