@@ -2,19 +2,19 @@
 
 # Topic: Quality assurance as a career
 
-* Lesson 1: [Why testing is necessary?](#lesson-1)
+* Lesson 1: [Introduction to QA Industry](.#Lesson-1)
 * Lesson 2: [What is quality](#lesson-1)
 
 ---
 ---
 
-## Lesson 1: Why testing is necessary?
+## Lesson 1: Introduction to QA Industry
 
 <dl>
 <dt>Self learning Duration</dt>
-<dd>xx mins</dd>
+<dd>60 mins</dd>
 <dt>Lecture/Lab Duration</dt>
-<dd>xx mins</dd>
+<dd>60 mins</dd>
 </dl>
 
 ### Self learning content
@@ -32,23 +32,8 @@ After Lecture:
 
 Description to lecture content (50 - 100 words)
 
-* teaching point 1
-* teaching point 2
-* teaching point 3
-
----
----
-
-## Assignment 1: {{Assignment name}}
-
-<dl>
-<dt>Assignment Duration</dt>
-<dd>xx mins</dd>
-</dl>
-
-### Assignment description
-
-Description to assignment to complete
+* Student to get an understanding of the big picture about the QA industry. 
+* Can cover the different career path / options they have in QA by a professional in QA in a discussion format
 
 ---
 
@@ -56,9 +41,9 @@ Description to assignment to complete
 
 <dl>
 <dt>Self learning Duration</dt>
-<dd>xx mins</dd>
+<dd>1 hour</dd>
 <dt>Lecture/Lab Duration</dt>
-<dd>xx mins</dd>
+<dd>08 hours</dd>
 </dl>
 
 ### Self learning content
@@ -74,22 +59,15 @@ After Lecture:
 
 ### Lecture/Lab description
 
-Description to lecture content (50 - 100 words)
 
-* teaching point 1
-* teaching point 2
-* teaching point 3
+* Tal about the different quality models
+    1. McCall’s Quality Model.
+    2. Boehm’s Quality Model.
+    3. Dromey's Quality Model.
+    4. FURPS Quality Model.
+    5. ISO 9126 Quality Model
+* It is not necessary to go in to details of these model.
 
 ---
 ---
 
-## Assignment 2: {{Assignment name}}
-
-<dl>
-<dt>Assignment Duration</dt>
-<dd>xx mins</dd>
-</dl>
-
-### Assignment description
-
-Description to assignment to complete

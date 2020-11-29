@@ -1,22 +1,22 @@
-[Home](../README.md) > [{{Module Name}}](./README.md) > {{Topic Name}}
+[Home](../README.md) > [Introduction to Software Quality Assurance](./README.md) > Quality Assurance concepts
 
-# Topic: {{Topic Name}}
+# Topic: Quality Assurance concepts
 
-* Lesson 1: [{{Lesson name}}](#lesson-1)
-* Lesson 2: [{{Lesson name}}](#lesson-1)
-* Lesson 3: [{{Lesson name}}](#lesson-1)
-* Assignment 1: [{{Assignment name}}](#assignment-1)
+* Lesson 1: [Testing Principles](#lesson-1)
+* Lesson 2: [Why testing is necessary?](#lesson-1)
+* Lesson 3: [Testing vs Debugging](#lesson-1)
+* Lesson 4: [Psychology of testing](#assignment-1)
 
 ---
 ---
 
-## Lesson 1: {{Lesson name}}
+## Lesson 1: Testing Principles
 
 <dl>
 <dt>Self learning Duration</dt>
 <dd>xx mins</dd>
 <dt>Lecture/Lab Duration</dt>
-<dd>xx mins</dd>
+<dd>08 hours</dd>
 </dl>
 
 ### Self learning content
@@ -34,22 +34,93 @@ After Lecture:
 
 Description to lecture content (50 - 100 words)
 
-* teaching point 1
-* teaching point 2
-* teaching point 3
+* 07 testing principles and practial use of it
+    1. Testing shows the presence of defects, not their absence
+    2. Exhaustive testing is impossible 
+    3. Early testing saves time and money
+    4. Defects cluster together
+    5. Beware of the pesticide paradox
+    6. Testing is context dependent
+    7. Absence-of-errors is a fallacy
 
 ---
----
-
-## Assignment 1: {{Assignment name}}
+## Lesson 2: Why testing is necessary?
 
 <dl>
-<dt>Assignment Duration</dt>
+<dt>Self learning Duration</dt>
 <dd>xx mins</dd>
+<dt>Lecture/Lab Duration</dt>
+<dd>08 hours</dd>
 </dl>
 
-### Assignment description
+### Self learning content
 
-Description to assignment to complete
+Before Lecture:
 
+* [link description](./#)
+* [link description](./#)
+
+After Lecture:
+
+* [link description](./#)
+
+### Lecture/Lab description
+
+Description to lecture content (50 - 100 words)
+
+*
+---
+
+## Lesson 3: Testing vs Debugging
+
+<dl>
+<dt>Self learning Duration</dt>
+<dd>xx mins</dd>
+<dt>Lecture/Lab Duration</dt>
+<dd>08 hours</dd>
+</dl>
+
+### Self learning content
+
+Before Lecture:
+
+* [link description](./#)
+* [link description](./#)
+
+After Lecture:
+
+* [link description](./#)
+
+### Lecture/Lab description
+
+Description to lecture content (50 - 100 words)
+
+*
+---
+
+## Lesson 4: Psychology of testing?
+
+<dl>
+<dt>Self learning Duration</dt>
+<dd>xx mins</dd>
+<dt>Lecture/Lab Duration</dt>
+<dd>08 hours</dd>
+</dl>
+
+### Self learning content
+
+Before Lecture:
+
+* [link description](./#)
+* [link description](./#)
+
+After Lecture:
+
+* [link description](./#)
+
+### Lecture/Lab description
+
+Description to lecture content (50 - 100 words)
+
+*
 ---
