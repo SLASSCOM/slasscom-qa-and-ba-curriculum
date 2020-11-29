@@ -1,6 +1,6 @@
-[Home](../README.md) > {{Module Name}}
+[Home](../README.md) > Software testing life cycle
 
-# Module: {{Module Name}}
+# Module: Software testing life cycle
 
 > Short module description (~10 words)
 

@@ -1,6 +1,6 @@
-[Home](../README.md) > {{Module Name}}
+[Home](../README.md) > Test Management
 
-# Module: {{Module Name}}
+# Module: Test Managment
 
 > Short module description (~10 words)
 

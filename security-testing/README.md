@@ -1,6 +1,6 @@
-[Home](../README.md) > {{Module Name}}
+[Home](../README.md) > Security Testing
 
-# Module: {{Module Name}}
+# Module: Security Testing
 
 > Short module description (~10 words)
 
