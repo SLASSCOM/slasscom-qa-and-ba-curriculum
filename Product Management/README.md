@@ -1,14 +1,14 @@
-[Home](../README.md) > {{Module Name}}
+[Home](../README.md) > Product Management
 
-# Module: {{Module Name}}
+# Module: Product Management
 
 > Short module description (~10 words)
 
 <dl>
 <dt>Total Duration</dt>
-<dd>~ xx hours</dd>
+<dd>~ 240 hours</dd>
 <dt>Number of Topics</dt>
-<dd>x</dd>
+<dd>3</dd>
 </dl>
 
 ## Introduction
@@ -17,9 +17,9 @@ Module description and why the content is important in the industry (~ 50 words)
 
 ## Topics
 
-1. [Topic A](./01-topic-a.md)
-2. [Topic B](./01-topic-a.md)
-3. [Topic C](./01-topic-a.md)
+1. [Requirements Analysis](./01-Requirements-Analysis.md)
+2. [Digital Product Management](./02-Digital-Product-Management.md)
+3. [Product Management Capstone Project](./03-Product-Management-Capstone-Project.md)
 
 ## Learning Outcomes
 
