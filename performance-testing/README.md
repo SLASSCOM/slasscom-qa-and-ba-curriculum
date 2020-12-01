@@ -1,6 +1,7 @@
-[Home](../README.md) > {{Module Name}}
+[Home](./performance-testing/README.md
+) > Performance Testing
 
-# Module: {{Module Name}}
+# Module: Performance Testing
 
 > Short module description (~10 words)
 
