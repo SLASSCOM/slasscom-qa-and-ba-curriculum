@@ -60,7 +60,7 @@ After Lecture:
 ### Lecture/Lab description
 
 
-* Tal about the different quality models
+* Talk about the different quality models
     1. McCall’s Quality Model.
     2. Boehm’s Quality Model.
     3. Dromey's Quality Model.
