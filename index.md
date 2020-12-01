@@ -17,9 +17,9 @@ This model curriculum is to be used as guidance by educational institutes in tea
 
 | Module                         | Details                                                   |
 | ------------------------------ | --------------------------------------------------------- |
-| Module A         | [View Topics](./module-a/README.md)    |
-| Module B         | [View Topics](./module-a/README.md)    |
-| Module C         | [View Topics](./module-a/README.md)    |
+| Product Management         | [View Topics](./Product-Management/README.md)    |
+| Product Design         | [View Topics](./Product-Design/README.md)    |
+| Business Processes and Key Business Domains         | [View Topics](./Business-Processes-and-Key-Business-Domains/README.md)    |
 
 ## Problem overview
 
