@@ -49,28 +49,33 @@ An introductory workshop on the meaning of product management, including differe
 
 <dl>
 <dt>Self learning Duration</dt>
-<dd>xx mins</dd>
+<dd>240 mins</dd>
 <dt>Lecture/Lab Duration</dt>
-<dd>xx mins</dd>
+<dd>240 mins</dd>
 </dl>
 
 ### Self learning content
 
 Before Lecture:
 
-* [link description](./#)
+* [Agile Manifesto and Principles](https://agilemanifesto.org/)
+* [Product Development Methods](https://www.aha.io/roadmapping/guide/product-development-methodologies)
 
 After Lecture:
 
-* [link description](./#)
+* [Product Methodologies](https://www.pmi.org/learning/library/product-methodologies-software-development-programs-6529)
+* [LeSS](https://less.works/less/framework/index)
+* [SAFe](https://www.scaledagileframework.com/)
 
 ### Lecture/Lab description
 
-Description to lecture content (50 - 100 words)
+This workshop covered different software development methods, including waterfall, agile values & principles, scrum, kanban, SAFe, and LeSS. participants must be able to justify applications of them in different products around us
 
-* teaching point 1
-* teaching point 2
-* teaching point 3
+* Waterfall method and when to use it
+* Agile Manifesto and Principles
+* Scrum
+* Kanban
+* SAFe and LeSS
 
 ---
 ---
@@ -79,28 +84,27 @@ Description to lecture content (50 - 100 words)
 
 <dl>
 <dt>Self learning Duration</dt>
-<dd>xx mins</dd>
+<dd>240 mins</dd>
 <dt>Lecture/Lab Duration</dt>
-<dd>xx mins</dd>
+<dd>240 mins</dd>
 </dl>
 
 ### Self learning content
 
 Before Lecture:
 
-* [link description](./#)
+* [Product Vision Introduction](https://www.scrum.org/resources/blog/10-tips-product-owners-product-vision)
 
 After Lecture:
 
-* [link description](./#)
+* [Measure What Matters](https://www.goodreads.com/book/show/39286958-measure-what-matters)
 
 ### Lecture/Lab description
 
-Description to lecture content (50 - 100 words)
+The session covers how to form a product vision using standard methods and different vision communication mechanisms. 
 
-* teaching point 1
-* teaching point 2
-* teaching point 3
+* Product Vision Statement
+* How to develop a product vision statement
 
 ---
 ---
@@ -109,28 +113,27 @@ Description to lecture content (50 - 100 words)
 
 <dl>
 <dt>Self learning Duration</dt>
-<dd>xx mins</dd>
+<dd>240 mins</dd>
 <dt>Lecture/Lab Duration</dt>
-<dd>xx mins</dd>
+<dd>240 mins</dd>
 </dl>
 
 ### Self learning content
 
 Before Lecture:
 
-* [link description](./#)
+* None
 
 After Lecture:
 
-* [link description](./#)
+* [Product Roadmaps](https://www.amazon.com/Product-Roadmaps-Relaunched-Direction-Uncertainty)
 
 ### Lecture/Lab description
 
-Description to lecture content (50 - 100 words)
+The workshop aims to develop skills in preparing product road-map using Software tools such as Aha. 
 
-* teaching point 1
-* teaching point 2
-* teaching point 3
+* Product Road-map Introduction
+* Aha tutorial 
 
 ---
 ---
