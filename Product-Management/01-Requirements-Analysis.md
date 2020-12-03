@@ -8,11 +8,11 @@
 * Lesson 3: [Strategy analysis and business case](#lesson-3)
 * Lesson 4: [Process modeling techniques](#lesson-4)
 * Lesson 5: [Use-case modeling techniques](#lesson-5)
-* Lesson 6: [User stories & acceptance criteira](#lesson-6)
+* Lesson 6: [User stories & acceptance criteria](#lesson-6)
 * Lesson 7: [Data modeling techniques](#lesson-7)
 * Lesson 8: [Non-functional requirements analysis](#lesson-8)
 * Lesson 9: [Requirements analysis, verification, validation](#lesson-9)
-* Lesson 10: [Requirements priortization and tracebility](#lesson-10)
+* Lesson 10: [Requirements prioritization and traceability](#lesson-10)
 
 ---
 ---
@@ -42,7 +42,7 @@ Introductory lecture on the role of the business analyst and definitions includi
 * Definition of Business Analysis
 * Business Analysis Core-Concept Model
 * Definition of Requirements and Designs
-* Requirements Typles
+* Requirements Types
 
 ---
 ---
@@ -101,7 +101,7 @@ This session is recommended to be a hands-on session covering an as-is analysis,
 
 * How to conduct a current state analysis
 * How to define a future state
-* Assesing risks and change strategy
+* Assessing risks and change strategy
 ---
 ---
 
@@ -161,7 +161,7 @@ This workshop may give participants the knowledge in identifying use-cases, mode
 * How to prepare a use-case description* 
 ---
 ---
-## Lesson 6: User stories & acceptance criteira
+## Lesson 6: User stories & acceptance criteria
 
 <dl>
 <dt>Self learning Duration</dt>
@@ -178,7 +178,7 @@ Before Lecture:
 
 After Lecture:
 
-* Write down three user stories and add acceptance critiera for each of them
+* Write down three user stories and add acceptance criteria for each of them
 
 ### Lecture/Lab description
 
@@ -186,7 +186,7 @@ A workshop to educate the participant on writing out-come based user stories, an
 
 * When and why to use user stories
 * Statement of value of user story
-* The difference bitween acceptance criteria and evaluation criteria
+* The difference between acceptance criteria and evaluation criteria
 * Using requirements to construct acceptance criteria
 * How to do a story map using user stories
 
@@ -282,7 +282,7 @@ Practical lab session and theoretical lectures on how to do a requirements analy
 
 ---
 ---
-## Lesson 10: Requirements priortization and tracebility
+## Lesson 10: Requirements prioritization and traceability
 
 <dl>
 <dt>Self learning Duration</dt>
@@ -306,8 +306,8 @@ After Lecture:
 Workshop in requirements relationships and prioritization techniques
 
 * How to identify and map requirements relationships
-* Requirements priortization criteria
-* Requirements priortization methods
+* Requirements prioritization criteria
+* Requirements prioritization methods
 
 ---
 ---
