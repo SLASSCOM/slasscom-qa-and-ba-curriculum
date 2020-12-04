@@ -85,11 +85,10 @@ Description to lecture content (50 - 100 words)
 Before Lecture:
 
 * [Basic difference between testing and debugging](https://www.tutorialspoint.com/difference-between-testing-and-debugging)
-* [link description](./#)
 
 After Lecture:
 
-* [link description](./#)
+* [In-depth overview of testing vs debugging](https://www.professionalqa.com/testing-vs-debugging)
 
 ### Lecture/Lab description
 
