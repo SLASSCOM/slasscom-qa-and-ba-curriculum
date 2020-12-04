@@ -93,7 +93,8 @@ After Lecture:
 
 ### Lecture/Lab description
 
-Description to lecture content (50 - 100 words)
+Testing and debugging are two most essential parts of the software testing cycle and both of them play a crucial role in detecting bugs and errors in the software. Testing and debugging, both are interdependent and one cannot be executed without the presence of other, as it is only after the successful culmination of testing that debugging can be executed by the team of developers. Testing helps in finding the error or bug in the software, however it is through debugging that a developer not only identifies but also analyses and removes the bug from the software.
+
 
 *
 ---
