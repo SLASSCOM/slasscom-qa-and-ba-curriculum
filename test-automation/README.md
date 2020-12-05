@@ -1,6 +1,6 @@
-[Home](../README.md) > {{Module Name}}
+[Home](../README.md) > Test Automation
 
-# Module: {{Module Name}}
+# Module: Test Automation
 
 > Short module description (~10 words)
 

@@ -1,6 +1,6 @@
-[Home](../README.md) > {{Module Name}}
+[Home](../README.md) > DevOps
 
-# Module: {{Module Name}}
+# Module: DevOps
 
 > Short module description (~10 words)
 
