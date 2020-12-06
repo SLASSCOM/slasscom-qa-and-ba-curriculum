@@ -111,16 +111,16 @@ Testing and debugging are two most essential parts of the software testing cycle
 
 Before Lecture:
 
-* [link description](./#)
-* [link description](./#)
+* [Psychology of testing](https://www.toolsqa.com/software-testing/istqb/psychology-of-testing/)
+* [What is psychology of testing](http://tryqa.com/what-is-the-psychology-of-testing/)
 
 After Lecture:
 
-* [link description](./#)
+* [Psychology of testing - A detailed discussion](https://youtu.be/vdUuUbynN5o)
 
 ### Lecture/Lab description
 
-Description to lecture content (50 - 100 words)
+Psychology of testing is a type of testing which fully depends on the mindset of developers and tester.  When we are building the software, we working positively towards the software never think about negative things. The mindset should be different while testing and reviewing developing software. With the correct mindset, the programmer can test their own code. At a certain point independence tester often makes the tester more effective to finding defects.
 
-*
+
 ---
