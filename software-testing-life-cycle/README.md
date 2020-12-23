@@ -17,11 +17,11 @@ Module description and why the content is important in the industry (~ 50 words)
 
 ## Topics
 
-1. [Introduction to agile testing](./01-topic-a.md)
-2. [QA responsibility in requirement handling](./01-topic-a.md)
-3. [Test designing techniques](./01-topic-a.md)
-4. [Different testing types](./01-topic-a.md)
-5. [Defect life cycle](./01-topic-a.md)
+1. [Introduction to agile testing](./01-introduction-to-agile.md)
+2. [QA responsibility in requirement handling](./02-qa-responsibility.md)
+3. [Test designing techniques](./03-test-techniques.md)
+4. [Different testing types](./04-different-testing.md)
+5. [Defect life cycle](./05-defect-life.md)
 
 ## Learning Outcomes
 
