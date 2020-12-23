@@ -17,9 +17,10 @@ Module description and why the content is important in the industry (~ 50 words)
 
 ## Topics
 
-1. [Topic A](./01-topic-a.md)
-2. [Topic B](./01-topic-a.md)
-3. [Topic C](./01-topic-a.md)
+1. [Test organization](./01-test-org.md)
+2. [Test planning and estimation](./02-test-plan.md)
+3. [Metrics used in Testing](./03-metrics.md)
+4. [Test reporting](./04-test-report.md)
 
 ## Learning Outcomes
 
