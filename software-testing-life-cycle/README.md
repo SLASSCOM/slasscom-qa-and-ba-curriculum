@@ -17,9 +17,11 @@ Module description and why the content is important in the industry (~ 50 words)
 
 ## Topics
 
-1. [Topic A](./01-topic-a.md)
-2. [Topic B](./01-topic-a.md)
-3. [Topic C](./01-topic-a.md)
+1. [Introduction to agile testing](./01-topic-a.md)
+2. [QA responsibility in requirement handling](./01-topic-a.md)
+3. [Test designing techniques](./01-topic-a.md)
+4. [Different testing types](./01-topic-a.md)
+5. [Defect life cycle](./01-topic-a.md)
 
 ## Learning Outcomes
 
