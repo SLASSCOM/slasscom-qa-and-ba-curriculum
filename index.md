@@ -26,7 +26,7 @@ This model curriculum is to be used as guidance by educational institutes in tea
 | Test Automation        | [View Topics](./test-automation/README.md)    |
 | Performance Testing        | [View Topics](./performance-testing/README.md)    |
 | Security Testing        | [View Topics](./security-testing/README.md)    |
-| DevOps Testing        | [View Topics](./devops/README.md)    |
+| DevOps Testing        | [View Topics](./DevOps/README.md)    |
 
 
 ## Problem overview
