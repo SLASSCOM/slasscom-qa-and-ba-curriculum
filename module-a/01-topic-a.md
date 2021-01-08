@@ -2,8 +2,8 @@
 
 # Topic: {{Topic Name}}
 
-* Lesson 1: [{{Lesson name}}](#lesson-1)
-* Lesson 2: [{{Lesson name}}](#lesson-1)
+* Lesson 1a: [{{Lesson name}}](#lesson-1)
+* Lesson 2b: [{{Lesson name}}](#lesson-1)
 * Lesson 3: [{{Lesson name}}](#lesson-1)
 * Assignment 1: [{{Assignment name}}](#assignment-1)
 
