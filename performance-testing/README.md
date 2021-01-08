@@ -18,9 +18,13 @@ Module description and why the content is important in the industry (~ 50 words)
 
 ## Topics
 
-1. [Topic A](./01-topic-a.md)
-2. [Topic B](./01-topic-a.md)
-3. [Topic C](./01-topic-a.md)
+1. [Performance test concepts](./01-perf-test-con.md)
+2. [Performance test Designing/ planning](./02-perf-test-des.md)
+3. [Performance test scripting using JMeter](./03-perf-test-script.md)
+4. [Results analysis](./04-res-anl.md)
+5. [Integration with Jenkins and usage of Jenkins dashboard](./05-int-jen.md)
+6. [JMeter execution in a CI pipeline](./06-jmeter-ci.md)
+7. [Introduction to early performance testing techniques](./07-early-perf.md)
 
 ## Learning Outcomes
 
