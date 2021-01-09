@@ -2,18 +2,18 @@
 
 # Module: Test Managment
 
-> Short module description (~10 words)
+Test management most commonly refers to the activity of managing a testing process.
 
 <dl>
 <dt>Total Duration</dt>
-<dd>~ xx hours</dd>
+<dd>36 hours</dd>
 <dt>Number of Topics</dt>
-<dd>x</dd>
+<dd>04</dd>
 </dl>
 
 ## Introduction
 
-Module description and why the content is important in the industry (~ 50 words).
+Test management most commonly refers to the activity of managing a testing process.
 
 ## Topics
 
