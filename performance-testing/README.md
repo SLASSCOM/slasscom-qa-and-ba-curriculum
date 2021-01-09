@@ -7,14 +7,14 @@
 
 <dl>
 <dt>Total Duration</dt>
-<dd>~ xx hours</dd>
+<dd>60 hours</dd>
 <dt>Number of Topics</dt>
-<dd>x</dd>
+<dd>07</dd>
 </dl>
 
 ## Introduction
 
-Module description and why the content is important in the industry (~ 50 words).
+In software quality assurance, performance testing is in general a testing practice performed to determine how a system performs in terms of responsiveness and stability under a particular workload. It can also serve to investigate, measure, validate or verify other quality attributes of the system, such as scalability, reliability and resource usage
 
 ## Topics
 
