@@ -2,18 +2,19 @@
 
 # Module: Security Testing
 
-> Short module description (~10 words)
+Security testing is a process intended to reveal flaws in the security mechanisms.
 
 <dl>
 <dt>Total Duration</dt>
 <dd>~ xx hours</dd>
 <dt>Number of Topics</dt>
-<dd>x</dd>
+<dd>06</dd>
 </dl>
 
 ## Introduction
 
-Module description and why the content is important in the industry (~ 50 words).
+Security testing is a process intended to reveal flaws in the security mechanisms of an information system that protect data and maintain functionality as intended.
+
 
 ## Topics
 
