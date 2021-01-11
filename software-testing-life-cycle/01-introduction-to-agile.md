@@ -1,6 +1,6 @@
-[Home](../index.md) > [Software Testing Lifecycle](./index.md) > Introduction to Agile
+[Home](../index.md) > [Software Testing Lifecycle](./index.md) > Introduction to Agile Testing
 
-# Topic: Introduction to Agile
+# Topic: Introduction to Agile Testing
 
 * Lesson 1: [{{Lesson name}}](#lesson-1)
 * Lesson 2: [{{Lesson name}}](#lesson-1)
