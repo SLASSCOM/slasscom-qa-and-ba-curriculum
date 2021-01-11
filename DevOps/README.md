@@ -2,28 +2,27 @@
 
 # Module: DevOps
 
-> Short module description (~10 words)
+
 
 <dl>
 <dt>Total Duration</dt>
-<dd>~ xx hours</dd>
+<dd>12 hours</dd>
 <dt>Number of Topics</dt>
-<dd>x</dd>
+<dd>03</dd>
 </dl>
 
 ## Introduction
 
-Module description and why the content is important in the industry (~ 50 words).
+DevOps is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality. DevOps is complementary with Agile software development; several DevOps aspects came from Agile methodology. 
 
 ## Topics
 
-1. [Topic A](./01-topic-a.md)
-2. [Topic B](./01-topic-a.md)
-3. [Topic C](./01-topic-a.md)
+1. [Introduction to DevOps](./01-int-dev.md)
+2. [Introduction to CI/CD implementations](./02-int-ci-cd.md)
+3. [Role of QA in DevOps](./03-role-qa.md)
 
 ## Learning Outcomes
 
-- learning outcome 1
-- learning outcome 2
-- learning outcome 3
-- learning outcome 4
+- Basic understanding about the DevOps
+- Basic understanding about the CI/CD implementation
+- Understanding of how QA can contribute to devops practices
