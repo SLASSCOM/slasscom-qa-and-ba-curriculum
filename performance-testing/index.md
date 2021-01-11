@@ -2,7 +2,7 @@
 
 # Module: Performance Testing
 
-> Short module description (~10 words)
+Introduction to the performance testing, scripting and results analysis in industry context.
 
 <dl>
 <dt>Total Duration</dt>
@@ -13,7 +13,7 @@
 
 ## Introduction
 
-In software quality assurance, performance testing is in general a testing practice performed to determine how a system performs in terms of responsiveness and stability under a particular workload. It can also serve to investigate, measure, validate or verify other quality attributes of the system, such as scalability, reliability and resource usage
+Software performance testing is one of the key non functional aspect that need make sure in any kind of a software service or a product. This module covers aspects such performance test concepts, performance test design for a project, performance test scripting and results analysis. The scope of the topics cover the depth required for beginner.
 
 ## Topics
 
@@ -27,7 +27,7 @@ In software quality assurance, performance testing is in general a testing pract
 
 ## Learning Outcomes
 
-- learning outcome 1
-- learning outcome 2
-- learning outcome 3
-- learning outcome 4
+- Obtain the concepts of performance testing and how they can map to a software product or a service.
+- How to derive a performance test design, plan and a process.
+- Performance test scripting techniques, debugging scripts and executing tests for different workload models.
+- How to analyze performance test results to provide conclusions and recommendations.
