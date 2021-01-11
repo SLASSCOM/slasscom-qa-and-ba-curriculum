@@ -1,4 +1,4 @@
-[Home](../README.md) > [Product Management](./README.md) > Digital Product Management
+[Home](../index.md) > [Product Management](./index.md)  > Digital Product Management
 
 # Topic: Digital Product Management
 

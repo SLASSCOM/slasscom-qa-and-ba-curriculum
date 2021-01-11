@@ -1,4 +1,4 @@
-[Home](../README.md) > Introduction to Software Quality Assurance
+[Home](../index.md) > Introduction to Software Quality Assurance
 
 # Module: Introduction to Software Quality Assurance
 

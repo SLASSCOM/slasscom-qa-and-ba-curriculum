@@ -1,6 +1,6 @@
-[Home](../README.md) > [{{Module Name}}](./README.md) > {{Topic Name}}
+[Home](../index.md) > [Software Testing Lifecycle](./index.md) > QA responsibility in requirement handling
 
-# Topic: {{Topic Name}}
+# Topic: QA responsibility in requirement handling
 
 * Lesson 1: [{{Lesson name}}](#lesson-1)
 * Lesson 2: [{{Lesson name}}](#lesson-1)

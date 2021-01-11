@@ -1,6 +1,6 @@
-[Home](../README.md) > [{{Module Name}}](./README.md) > {{Topic Name}}
+[Home](../index.md) > [Security Testing](./index.md) > Web Fundamentals & security Configurations
 
-# Topic: {{Topic Name}}
+# Topic: Web Fundamentals & security Configurations
 
 * Lesson 1: [{{Lesson name}}](#lesson-1)
 * Lesson 2: [{{Lesson name}}](#lesson-1)

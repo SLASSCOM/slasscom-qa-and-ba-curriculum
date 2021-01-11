@@ -1,6 +1,6 @@
-[Home](../README.md) > [{{Module Name}}](./README.md) > {{Topic Name}}
+[Home](../index.md) > [Business Processes and Key Industries](./index.md) > Key Industry Domains
 
-# Topic: {{Topic Name}}
+# Topic: Key Industry Domains
 
 * Lesson 1: [{{Lesson name}}](#lesson-1)
 * Lesson 2: [{{Lesson name}}](#lesson-1)

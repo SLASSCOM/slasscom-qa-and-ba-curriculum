@@ -1,6 +1,6 @@
-[Home](../README.md) > [{{Module Name}}](./README.md) > {{Topic Name}}
+[Home](../index.md) > [Test Automation](./index.md) > CI/CD Implementation
 
-# Topic: {{Topic Name}}
+# Topic: CI/CD Implementation
 
 * Lesson 1: [{{Lesson name}}](#lesson-1)
 * Lesson 2: [{{Lesson name}}](#lesson-1)
