@@ -1,6 +1,6 @@
-[Home](../README.md) > {{Module Name}}
+[Home](../README.md) > Business Processes and Key Industries
 
-# Module: {{Module Name}}
+# Module: Business Processes and Key Industries
 
 > Short module description (~10 words)
 
@@ -17,9 +17,9 @@ Module description and why the content is important in the industry (~ 50 words)
 
 ## Topics
 
-1. [Topic A](./01-topic-a.md)
-2. [Topic B](./01-topic-a.md)
-3. [Topic C](./01-topic-a.md)
+1. [Organizational Structures](./01-Organizational-Structures.md)
+2. [Key Industry Domains](./02-Key-Industry-Domains.md)
+3. [Key Business Processes](./03-Key-Business-Processes.md)
 
 ## Learning Outcomes
 

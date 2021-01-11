@@ -1,4 +1,4 @@
-[Home](../README.md) > [Product Management](./README.md) > Product Management Capstone Project
+[Home](../index.md) > [Product Management](./index.md)  > Product Management Capstone Project
 
 # Topic: Product Management Capstone Project
 

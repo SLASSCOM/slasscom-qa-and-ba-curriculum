@@ -1,4 +1,4 @@
-[Home](../README.md) > [Introduction to Software Quality Assurance](./README.md) > Quality assurance as a career
+[Home](../index.md) > [Introduction to Software Quality Assurance](./index.md) > Quality assurance as a career
 
 # Topic: Quality assurance as a career
 

@@ -1,6 +1,6 @@
-[Home](../README.md) > [{{Module Name}}](./README.md) > {{Topic Name}}
+[Home](../index.md) > [Business Processes and Key Industries](./index.md) > Organizational Structures
 
-# Topic: {{Topic Name}}
+# Topic: Organizational Structures
 
 * Lesson 1: [{{Lesson name}}](#lesson-1)
 * Lesson 2: [{{Lesson name}}](#lesson-1)

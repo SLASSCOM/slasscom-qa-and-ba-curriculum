@@ -1,4 +1,4 @@
-[Home](../README.md) > [Introduction to Software Quality Assurance](./README.md) > Quality Assurance concepts
+[Home](../index.md) > [Introduction to Software Quality Assurance](./index.md) > Quality Assurance concepts
 
 # Topic: Quality Assurance concepts
 

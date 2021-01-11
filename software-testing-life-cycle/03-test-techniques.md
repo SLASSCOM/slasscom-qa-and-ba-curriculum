@@ -1,6 +1,6 @@
-[Home](../README.md) > [{{Module Name}}](./README.md) > {{Topic Name}}
+[Home](../index.md) > [Software Testing Lifecycle](./index.md) > Test designing techniques
 
-# Topic: {{Topic Name}}
+# Topic: Test designing techniques
 
 * Lesson 1: [{{Lesson name}}](#lesson-1)
 * Lesson 2: [{{Lesson name}}](#lesson-1)

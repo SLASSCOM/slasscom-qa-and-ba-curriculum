@@ -1,6 +1,6 @@
-[Home](../README.md) > Software testing life cycle
+[Home](../index.md) > Software testing lifecycle
 
-# Module: Software testing life cycle
+# Module: Software testing lifecycle
 
 > Short module description (~10 words)
 
@@ -21,7 +21,7 @@ In this module, we will be focusing on understanding one of the widely use softw
 2. [QA responsibility in requirement handling](./02-qa-responsibility.md)
 3. [Test designing techniques](./03-test-techniques.md)
 4. [Different testing types](./04-different-testing.md)
-5. [Defect life cycle](./05-defect-life.md)
+5. [Defect lifecycle](./05-defect-life.md)
 
 ## Learning Outcomes
 
